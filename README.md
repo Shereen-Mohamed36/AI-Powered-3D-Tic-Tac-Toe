@@ -19,3 +19,9 @@ An advanced 3D Tic-Tac-Toe game featuring a sophisticated AI with multiple searc
 ```bash
 python main.py
 
+<img width="1576" height="829" alt="Screenshot (905)" src="https://github.com/user-attachments/assets/7a578883-940f-4e78-a5d8-32deedd47249" />
+
+<img width="1767" height="820" alt="Screenshot (907)" src="https://github.com/user-attachments/assets/d568717a-1967-4928-9b83-41aff4d1d3dc" />
+
+<img width="1876" height="768" alt="Screenshot (906)" src="https://github.com/user-attachments/assets/bf8d5c2f-7f76-4d4f-a42a-7f6fa01e0b32" />
+
